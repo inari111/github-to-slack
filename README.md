@@ -1,0 +1,4 @@
+# github-to-slack
+GitHubのメンションをSlackに飛ばすCloud Functionsの関数  
+GitHubのissueやPull RequestのメンションをSlackのアカウント名に変換してメンションを飛ばす  
+config.jsonでGitHubのアカウントとSlackのアカウントをマッピング
